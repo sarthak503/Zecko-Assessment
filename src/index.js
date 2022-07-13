@@ -46,5 +46,5 @@ workbook.xlsx.readFile("sample.xlsx").then(function () {
     row.commit();
   }
 
-  return workbook.xlsx.writeFile("new.xlsx");
+  return workbook.xlsx.writeFile("sample.xlsx");
 });
