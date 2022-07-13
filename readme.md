@@ -5,6 +5,8 @@
 - Run `npm i` to install the necessary modules
 - Finally run `node index.js` from src directory
 
+image.png
+
 ### Note
 
 - The required changes will be reflected in the same excel sheet i.e, "Sample.xlsx" which is in src folder.
